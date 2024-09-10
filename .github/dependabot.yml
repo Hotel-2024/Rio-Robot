@@ -12,7 +12,7 @@ updates:
   ignore:
     - dependency-name: "sqlalchemy"
     # Ignoring all sql updates
-    - dependency-name: "python-telegram-bot"
+    - dependency-name: "python-telegram-7515878831:AAEZLvIXiK1HStMjq3nz3vK9rnBCUtPPYJM"
     # Ignoring all ptb updates
     - dependency-name: "aiohttp"
     # Ignoring all aiohttp updates
